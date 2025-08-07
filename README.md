@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bennysamuel10/Pedestrian-Detection/blob/main/notebooks/object_detection_pipeline.ipynb)
+
 # TensorFlow 2 Object Detection Pipeline
 
 This project builds a custom object detection pipeline using TensorFlow 2's Object Detection API. The model is trained to detect gestures like ThumbsUp, ThumbsDown, ThankYou, and LiveLong.
