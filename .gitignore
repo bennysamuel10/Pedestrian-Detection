@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.tar.gz
+*.zip
+*.pb
+*.tflite
+*.h5
+checkpoints/
+models/
